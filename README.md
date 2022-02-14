@@ -1,0 +1,2 @@
+# Splaytify
+Spotify now playing
